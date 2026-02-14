@@ -1,0 +1,1 @@
+export type EventTheme = "Rock" | "Metal" | "Pop" | "Family" | "Rap";
